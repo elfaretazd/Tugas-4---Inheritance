@@ -1,0 +1,35 @@
+Bus TransJatim memulai perjalanan di Terminal A - Terminal B
+30 penumpang naik ke dalam Bus TransJatim
+Total penumpang: 30
+Kapasitas penuh! Tidak dapat menaikkan 80 penumpang
+Total penumpang: 50
+Total pemberhentian: 5
+Tarif per halte: Rp 2000
+Total tarif perjalanan bus: Rp 500000.0
+Bus TransJatim mencapai tujuan akhir dan berhenti
+50 penumpang turun dari Bus TransJatim
+
+----------------------------------------------------
+
+Kereta Mass Rapid Transit memulai perjalanan di Stasiun Kota - Stasiun Pusat
+150 penumpang naik ke dalam Kereta Mass Rapid Transit
+Total penumpang: 150
+Kapasitas penuh! Tidak dapat menaikkan 250 penumpang
+Total penumpang: 200
+Tarif tetap per penumpang: Rp 10000
+Total tarif perjalanan kereta: Rp 2000000.0
+Kereta Mass Rapid Transit mencapai tujuan akhir dan berhenti
+200 penumpang turun dari Kereta Mass Rapid Transit
+
+----------------------------------------------------
+
+Taksi Citra memulai perjalanan di Bandara - Hotel
+3 penumpang naik ke dalam Taksi Citra
+Total penumpang: 3
+Kapasitas penuh! Tidak dapat menaikkan 9 penumpang
+Total penumpang: 4
+Total jarak rute: 10 km
+Tarif per km: Rp 5000
+Total tarif perjalanan taksi: Rp 50000.0
+Taksi Citra mencapai tujuan akhir dan berhenti
+4 penumpang turun dari Taksi Citra
